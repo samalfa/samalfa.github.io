@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Second post!
+title: First post!
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my Secon post, how exciting!
+This is my First post, how exciting!
