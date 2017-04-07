@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Note KM for Developer By "Sam Alfa Dev"
+title: Note KM and Resource.
+subtitle: Excerpt from Soulshaping by Jeff Brown
+bigimg: /img/path.jpg
 ---
+
 
 ### command line app เขียนด้วย python ไว้โหลด youtube มาเก็บไว้ที่เครื่องเรา
 #### Requiment Dependencies
@@ -27,6 +30,10 @@ title: Note KM for Developer By "Sam Alfa Dev"
 * hpstr-jekyll-theme [see on github](https://github.com/mmistakes/hpstr-jekyll-theme)
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
+
+### Using Jekyll : Hyde Press Bookshelf
+* Visit: [website](https://hydepress.github.io)
+* Resource [see on github](https://github.com/hydepress/hydepress.github.io)
 
 ### Using Sass with Jekyll
 * Visit: [website](https://markdotto.com/2014/09/25/sass-and-jekyll)
