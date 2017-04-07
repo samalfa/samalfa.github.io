@@ -3,6 +3,7 @@ _site
 .sass-cache
 .vagrant
 .bundle
+.jekyll-metadata
 
 # general
 .DS_Store
