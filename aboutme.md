@@ -16,5 +16,5 @@ My name is Suttipod Ubonsangphet.
 
 ### Contact me
 
-[sam.tunk@gmail.com](mailto:email@domain.com)
-[Facebook](https://www.facebook.com/sam.tunk)
+- [sam.tunk@gmail.com](mailto:email@domain.com)
+- [Facebook](https://www.facebook.com/sam.tunk)

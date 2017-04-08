@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown Formatting
+tags: [Markdown, Systax highlighting]
 ---
 
 ### เรียนรู้รูปแบบการเขียน Markdown 
@@ -26,7 +27,7 @@ function test() {
 * Syntax highlighting
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+require 'kramdown'
+markdown = Kramdown.new("Hello World!")
 puts markdown.to_html
 ```

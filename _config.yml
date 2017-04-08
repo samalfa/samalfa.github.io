@@ -17,19 +17,19 @@ baseurl: ""
 title: Sam Alfa Dev
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: I am passionate in computer science and technology.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "http://samalfa.github.io/samalfablog"
+  Blog: "http://samalfa.github.io/samalfablog/"
   Projects:
-    - Sam Alfa Dev: "http://samalfa.github.io/samalfadev"
-    - DRU T-SIT Project: "http://samalfa.github.io/samalfadev"
+    - DRU T-SIT Project: "developing"
+    - Sam Alfa Dev: "http://samalfa.github.io/samalfadev/"
   Resources:
-    - Sam Alfa KM: "http://samalfa.github.io/samalfaresources"
+    - Sam Alfa KM: "http://samalfa.github.io/samalfaresources/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
