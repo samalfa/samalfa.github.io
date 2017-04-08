@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To be
+title: Sample Layout VI.
 subtitle: ... or not to be?
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear diary
+title: Sample Layout V.
 tags: [random, diary, school]
 ---
 
