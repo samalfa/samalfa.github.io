@@ -5,8 +5,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 ---
 
-
-### command line app เขียนด้วย python ไว้โหลด youtube มาเก็บไว้ที่เครื่องเรา
+### CLI App เขียนด้วย python สำหรับโหลด youtube
 #### Requiment Dependencies
 * youtube-dl [youtube-dl](https://github.com/rg3/youtube-dl)
 * youtube-dl add-on [ytdl_bash_addon.md](https://gist.github.com/bluenex/40496729bc721d7b4be0)
