@@ -4,7 +4,7 @@ title: About me
 subtitle: Sam Alfa Dev
 ---
 
-My name is Suttipod Ubonsangphet.
+### My name is Suttipod Ubonsangphet.
 
 - I am studing in Bachelor degree in A university.
 - I am passionate in computer science and technology.
