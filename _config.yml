@@ -24,12 +24,11 @@ description: I am passionate in computer science and technology.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "http://samalfa.github.io/samalfablog/"
+  KM: "http://samalfa.github.io/samalfa-km/"
   Projects:
     - DRU T-SIT Project: "developing"
     - Sam Alfa Dev: "http://samalfa.github.io/samalfadev/"
   Resources:
-    - Sam Alfa KM: "http://samalfa.github.io/samalfaresources/"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
