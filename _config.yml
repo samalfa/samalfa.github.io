@@ -25,7 +25,7 @@ description: I am passionate in computer science and technology.
 navbar-links:
   About Me: "aboutme"
   DRU:
-    - PHP: "http://samalfa.github.io/dru-mysql-tutor/"
+    - PHP: "https://github.com/samalfa/dru-mysql-tutor/"
   Projects:
     - DRU IoT Project: "developing"
     - Sam Alfa Dev: "http://samalfa.github.io/samalfadev/"
