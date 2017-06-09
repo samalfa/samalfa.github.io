@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deploy Samalfadevblog 2
+title: Deploy Samalfadevblog 1
 ---
 
 ### Test Deploy from Github Page
